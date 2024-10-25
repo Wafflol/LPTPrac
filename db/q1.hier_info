@@ -1,0 +1,18 @@
+|q1
+clk => present_state~1.DATAIN
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+reset => present_state.OUTPUTSELECT
+in[0] => Equal0.IN1
+in[0] => Equal1.IN0
+in[0] => Equal2.IN1
+in[1] => Equal0.IN0
+in[1] => Equal1.IN1
+in[1] => Equal2.IN0
+out[0] <= <GND>
+out[1] <= <GND>
+out[2] <= <GND>
+
+

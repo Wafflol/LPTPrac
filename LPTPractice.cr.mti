@@ -1,0 +1,15 @@
+Z:/home/tommy/School/cpen211/LPTs/LPTPrac/q1.sv {1 {vlog -work work -sv -stats=none Z:/home/tommy/School/cpen211/LPTs/LPTPrac/q1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module q1
+
+Top level modules:
+	q1
+
+} {} {}} Z:/home/tommy/School/cpen211/LPTs/LPTPrac/tb_q1.sv {1 {vlog -work work -sv -stats=none Z:/home/tommy/School/cpen211/LPTs/LPTPrac/tb_q1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_q1
+
+Top level modules:
+	tb_q1
+
+} {} {}}
